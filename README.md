@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @muhammadosama12
+- 👋 Hi, I’m Muhammad Osama
 - 👀 I’m interested in Django Web Development
 - 🌱 I’m currently learning BS Computer Science
 - 💞️ I’m looking to collaborate on 
